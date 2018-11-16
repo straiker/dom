@@ -1,4 +1,4 @@
-package mod.rait.model;
+package dom.rait.model;
 import lombok.Getter;
 import lombok.Setter;
 
